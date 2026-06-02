@@ -77,8 +77,8 @@ comment: true
 
 <span style="color: red">Example!!!</span>
 - When Facebook went offline globally for almost 6 hours in the early hours of October 5, 2021.
-- The cost of this outage, according to cybersecurity watchdog Net- Blocks, was to the tune of $160 million to the global economy.
-- Facebook’s share price tumbled, and data suggests that Mark Zucker- berg, founder and CEO of Facebook, lost as much as $7 billion and Facebook saw $40 billion in market capitalization wiped out.
+- The cost of this outage, according to cybersecurity watchdog Net- Blocks, was to the tune of \$160 million to the global economy.
+- Facebook's share price tumbled, and data suggests that Mark Zucker- berg, founder and CEO of Facebook, lost as much as \$7 billion and Facebook saw \$40 billion in market capitalization wiped out.
 
 ### Brief Questions
 
